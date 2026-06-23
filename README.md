@@ -1,8 +1,8 @@
 # 🚀 HackerRank Solutions
 
-This repository contains my solutions to various HackerRank coding challenges solved using Techinical Languages.
+This repository contains my solutions to various HackerRank coding challenges solved using Technical skills.
 
-The purpose of this repository is to strengthen problem-solving skills, improve algorithmic thinking, and build consistency through regular coding practice.
+The primary goal of this repository is to improve problem-solving skills, strengthen algorithmic thinking, and maintain consistency through regular coding practice.
 
 ## 🛠️ Language
 
@@ -22,28 +22,14 @@ The purpose of this repository is to strengthen problem-solving skills, improve 
 * Algorithms
 * Problem Solving
 
-## 🎯 Objective
+## 🎯 Objectives
 
-* Improve coding proficiency
-* Enhance logical thinking and problem-solving skills
+* Strengthen coding fundamentals
+* Improve logical and analytical thinking
 * Practice Data Structures and Algorithms
 * Build a strong coding portfolio
-
-## 📂 Repository Structure
-
-```text
-Problem Name/
-├── solution.py
-└── README.md
-```
-
-Each folder contains:
-
-* Problem description
-* Approach/Explanation
-* Python solution
-* Time & Space complexity analysis
+* Develop consistent problem-solving habits
 
 ## 🌟 About
 
-Consistent coding practice and continuous learning through HackerRank challenges.
+A collection of HackerRank solutions showcasing continuous learning, problem-solving, and Python programming skills.
